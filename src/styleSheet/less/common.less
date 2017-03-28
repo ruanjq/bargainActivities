@@ -1,0 +1,97 @@
+ .scroll-box {
+   /*   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0px; */
+ }
+ 
+ .img-opacity {
+     opacity: 0;
+     -moz-transition: opacity 0.8s;
+     /* Firefox 4 */
+     -webkit-transition: opacity 0.8s;
+     /* Safari and Chrome */
+     -o-transition: opacity 0.8s;
+     transition: opacity 0.8s;
+ }
+ 
+ .customer-loading {
+     .weui_toast {
+         top: 50%;
+         transform: translate(-50%, -50%);
+         margin-left: inherit;
+         .weui_toast_content {
+             font-size: 0.373333rem
+         }
+     }
+     .weui_loading_leaf:before {
+         width: 0.226667rem;
+         height: 0.053333rem
+     }
+ }
+ 
+ // 自定义 loading 加载样式
+ .pullup-loading {
+     font-size: 0.453333rem;
+     display: block;
+     margin-top: 4px;
+     .vux-spinner {
+         width: 0.8rem;
+         height: 0.8rem;
+         svg {
+             width: 0.8rem;
+             height: 0.8rem;
+         }
+     }
+ }
+ 
+
+ // 自定义 toast 样式
+ .customerToast {
+     .weui_mask_transparent {
+         display: none;
+     }
+     .weui_toast {
+         border-radius: 0.066667rem;
+         padding: 0.133333rem;
+         .px2px(font-size, 32px);
+         width: auto;
+         -webkit-transform: translate(-50%, -50%);
+         -moz-transform: translate(-50%, -50%);
+         -ms-transform: translate(-50%, -50%);
+         transform: translate(-50%, -50%);
+         margin-left: inherit;
+     }
+     .weui_toast_content {
+         padding: 0;
+         margin: 0;
+     }
+ }
+
+
+.customer-alert{
+    .weui_dialog_bd{
+      p{
+        word-break:break-word;
+      }
+    }
+    .weui_dialog{
+        width: 6.666667rem;
+    }
+    
+   /*  .weui_dialog_hd{
+       padding: 0.266667rem 0 0.266667rem 0;
+   }
+   .weui_dialog_title{
+       font-size: 0.48rem;
+   }
+   
+   .weui_dialog_bd{
+       font-size: 0.426667rem;
+   }
+   .weui_dialog_ft{
+       font-size: 32px;
+       line-height: 1rem;
+   } */
+}

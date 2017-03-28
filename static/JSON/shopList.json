@@ -1,0 +1,50 @@
+{
+  "statusCode": 200,
+  "result": [
+    {
+      "bargain_id": "28",
+      "goods_state": "1",
+      "id": "978",
+      "imgUrl": "https://gloimg.yoshop.com/yoshop/pdm-product-pic/Clothing/2016/02/24/goods-img/1470194233416172906.jpg",
+      "desc": "Simple Satin and Floral Print Design Slippers For Women",
+      "price": "8.33",
+      "remain": "300",
+      "endTime": "1472853000",
+      "nowTime": "1472568081"
+    },
+    {
+      "bargain_id": "26",
+      "goods_state": "0",
+      "id": "20",
+      "imgUrl": "https://gloimg.yoshop.com/yoshop/2015/201505/goods-img/1470190547827051089.jpg",
+      "desc": "Ethnic Beads Cross Layered Chain Bracelet For Women",
+      "price": "600.65",
+      "remain": "12",
+      "endTime": "1473550500",
+      "nowTime": "1472568081"
+    },
+    {
+      "bargain_id": "25",
+      "goods_state": "1",
+      "id": "10",
+      "imgUrl": "https://gloimg.yoshop.com/yoshop/pdm-product-pic/Clothing/2016/05/03/goods-img/1470190526845693099.jpg",
+      "desc": "Chic Round Collar Tiny Floral Print Loose Women's T-Shirt",
+      "price": "300.36",
+      "remain": "30",
+      "endTime": "1473461400",
+      "nowTime": "1472568081"
+    },
+    {
+      "bargain_id": "26",
+      "goods_state": "0",
+      "id": "10",
+      "imgUrl": "https://gloimg.yoshop.com/yoshop/pdm-product-pic/Clothing/2016/05/03/goods-img/1470190526845693099.jpg",
+      "desc": "Chic Round Collar Tiny Floral Print Loose Women's T-Shirt",
+      "price": "300.36",
+      "remain": "30",
+      "endTime": "1473461400",
+      "nowTime": "1472568081"
+    }
+  ],
+  "message": "Succuss"
+}

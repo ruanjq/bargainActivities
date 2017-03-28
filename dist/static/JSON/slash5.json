@@ -1,0 +1,44 @@
+{
+    "slashState":"0",
+    "id":"5",
+    "imgUrl":"static/images/shop_03.png",
+    "desc":"Meizu Metal 32GB ROM 4Meizu Me4Meizu Metal 32GB ROG Phabletl 32GB ROM 4G Phablet etal 32GB ROM 4",
+    "price":"172.64",
+    "remain":222,
+    "endTime":"1471925100",
+    "nowTime":"1471924800",
+    "splashProgress":100,
+    "splashTotal":"999",
+    "splashSelf":{
+        "headImg":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+        "userName":"Jayden",
+        "showtime":"1471924800",
+        "price":"12.23"
+    },
+    "slashFriends":[
+        {
+            "headImg":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "userName":"Jayden",
+            "showtime":"1471924800",
+            "price":"12.23"
+        },
+        {
+            "headImg":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "userName":"Apple",
+            "showtime":"1471924800",
+            "price":"12.11"
+        },
+        {
+            "headImg":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "userName":"Banana",
+            "showtime":"1471924800",
+            "price":"10.11"
+        },
+        {
+            "headImg":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "userName":"Banana",
+            "showtime":"1471924800",
+            "price":"12.11"
+        }
+    ]
+}

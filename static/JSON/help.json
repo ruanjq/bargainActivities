@@ -1,0 +1,40 @@
+{
+    "user_state":2,
+    "goods_state":1,
+    "bargain_id":"26",
+    "imgUrl":"https://gloimg.yoshop.com/yoshop/pdm-product-pic/Clothing/2016/02/24/goods-img/1470194233416172906.jpg",
+    "desc":"Meizu Metal 32GB ROM 4Meizu Me4Meizu Metal 32GB ROG Phabletl 32GB ROM 4G Phablet etal 32GB ROM 4",
+    "price":"172.64",
+    "remain":222,
+    "endTime": "1473550500",
+    "nowTime": "1472568081",
+    "splashProgress":"80",
+    "splashTotal":"12",
+    "bargain_record":[
+        {
+            "help_avatar":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "help_nickname":"Jayden",
+            "b_time":"1471924800",
+            "price":"12.23"
+        },
+        {
+            "help_avatar":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "help_nickname":"Apple",
+            "b_time":"1471924800",
+            "price":"12.11"
+        },
+        {
+            "help_avatar":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "help_nickname":"Banana",
+            "b_time":"1471924800",
+            "price":"10.11"
+        },
+        {
+            "help_avatar":"http://qlogo4.store.qq.com/qzone/1016744743/1016744743/100?1442109315",
+            "help_nickname":"Banana",
+            "b_time":"1471924800",
+            "price":"12.11"
+        }
+    ]
+}
+
